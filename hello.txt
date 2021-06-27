@@ -2,3 +2,5 @@ hello git
 
 git
  hello2
+
+--hot-fix hello git
